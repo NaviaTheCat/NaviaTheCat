@@ -46,4 +46,4 @@ Aquí están algunas de las tecnologías con las que trabajo:
 <Br>
   
 Credit: [Aryagm](https://github.com/Aryagm)
-Last Edited on: 13/09/2025
+Last Edited on: 30/11/2025
