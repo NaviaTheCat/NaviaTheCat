@@ -26,7 +26,7 @@ Aquí están algunas de las tecnologías con las que trabajo:
 
 ### 💼 Experiencia Destacada
 
-*   **Proyectos Escolares** en Universidad Tecnologia de Cancun UT (Sept 2022 - Presente)
+*   **Proyectos Escolares** en Universidad Tecnologia de Cancun UT (Sept 2023 - Presente)
     *   Diseño de interfaces de usuario.
     *   Desarrollo FrontEnd de proyectos.
 *   **Cluster Practicante de IT** en Hilton Cancun, an All-Inclusive Resort & Waldorf Astoria Rivera Maya (May 2025 - Ago 2025)
