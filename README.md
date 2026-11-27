@@ -1,10 +1,11 @@
  Hey all! <img src= "https://media2.giphy.com/media/Lm5hxmmI6ucOQGfjKj/giphy.gif?cid=6c09b952o9xti0m387z597k2xqipch3qmqjydym98oef87ve&rid=giphy.gif&ct=s" width= "30" height= "30"> 
 
 
-Nuevo banner en proceso..
+<img width="1281" height="317" alt="Captura de pantalla 2026-11-27 014139" src="https://github.com/user-attachments/assets/05d9cca2-a556-4cbb-bfbc-93f955b5af36" />
 
 
-Hola bienvenido, yo soy Navi soy diseñador UX/UI apasionado con la tecnologia, Me considero una persona proactiva que siempre toma la iniciativa, me adapto muy facil ante cualquier ambiente de trabajo y siempre estoy dispuesto a ayudar en cualquier trabajo que se me solicite.
+
+Hola bienvenido, yo soy Navi soy desarrollador frontend y diseñador UX/UI apasionado con la tecnologia, Me considero una persona proactiva que siempre toma la iniciativa, me adapto muy facil ante cualquier ambiente de trabajo y siempre estoy dispuesto a ayudar en cualquier trabajo que se me solicite.
 
 ---
 
@@ -35,6 +36,8 @@ Aquí están algunas de las tecnologías con las que trabajo:
 ------
 
 ![xd]( https://raw.githubusercontent.com/ikabeee/ikabeee/output/snake.svg)
+![Navi's GitHub stats](https://github-readme-stats.vercel.app/api?username=NaviaTheCat&show_icons=true&theme=rose_pine&title_color=7b2cbf&icon_color=e0aaff&text_color=FFE4E1&bg_color=ffffff00)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NaviaTheCat&layout=compact&theme=rose_pine&title_color=7b2cbf&text_color=e0aaff&bg_color=ffffff00)
 
 </div>
 </body>
